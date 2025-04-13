@@ -27,7 +27,7 @@ const Stats = () => {
                 }}
                 transitions={(i) => ({
                   type: "spring",
-                  duration: 1,
+                  duration: 3,
                   delay: i * 0.1,
                 })}
               />
